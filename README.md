@@ -6,7 +6,7 @@ This course is from University of Helsinki's **free** Massive Open Online Course
 
 The course is split up into two different sub courses, first being **Introduction to Programming** and the second being **Advanced Course in Programming**.
 
-Each course consists of seven parts, with its own set of exercises.
+Each course consists of **seven parts**, with its own set of exercises.
 
 **Part 1:**
 1. Getting started
