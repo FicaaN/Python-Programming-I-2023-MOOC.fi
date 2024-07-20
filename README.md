@@ -1,4 +1,4 @@
-# **Python Programming I MOOC 2024 | Introduction to Programming | University of Helsinki, Finland**
+# **Python Programming I MOOC 2023 | Introduction to Programming | University of Helsinki, Finland**
 
 **DISCLAIMER**: **_The solutions that I have provided are my way of solving the exercises and are not necessarily the shortest, most efficient and clean-code looking like._**
 
